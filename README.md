@@ -2,9 +2,7 @@
 
 Visualizes different sorting algorithms by treating an image as a list of square partitions, shuffling them, and then sorting them back into place. Every sampled step of the sort is rendered as a frame and compiled into a video.
 
-<video src="test.mp4" controls width="600">
-  Your browser does not support embedded video.
-</video>
+![test.jpg being sorted via comb sort](test.gif)
 
 `test.jpg` (1280x720) being sorted via comb sort with a partition size of 20px.
 
