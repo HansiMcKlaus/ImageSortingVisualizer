@@ -1,0 +1,9 @@
+/output/
+*.mp4
+!test.mp4
+
+__pycache__/
+*.pyc
+venv/
+.venv/
+env/
